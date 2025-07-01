@@ -119,7 +119,7 @@ include 'includes/header.php';
                         <span>📞</span>
                         <div>
                             <strong>Phone</strong><br>
-                            (555) 123-4567<br>
+                            (855) 123-4567<br>
                             Mon-Fri 9AM-6PM EST
                         </div>
                     </div>
@@ -127,8 +127,7 @@ include 'includes/header.php';
                         <span>📍</span>
                         <div>
                             <strong>Address</strong><br>
-                            123 Garden Street<br>
-                            Green City, GC 12345
+                            📍Sangkat Teuk Laak I, Khan Toul Kork<br> Phnom Penh, Cambodia
                         </div>
                     </div>
                     <div class="contact-item">

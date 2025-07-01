@@ -1,5 +1,5 @@
 <?php
-include 'includes/cart_functions.php';
+include_once 'includes/cart_functions.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['product_id'])) {
     $productId = $_POST['product_id'];

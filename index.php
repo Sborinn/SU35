@@ -28,14 +28,14 @@ $featured_products = [
     [
         'id' => 'peace-lily',
         'name' => 'Peace Lily',
-        'image' => 'https://images.pexels.com/photos/4425875/pexels-photo-4425875.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=2',
+        'image' => 'https://images.pexels.com/photos/10903294/pexels-photo-10903294.jpeg',
         'description' => 'Elegant white flowers and dark green foliage. Excellent air purifier for indoor spaces.',
         'price' => 34.99
     ],
     [
         'id' => 'rubber-plant',
         'name' => 'Rubber Plant',
-        'image' => 'https://images.pexels.com/photos/7728020/pexels-photo-7728020.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=2',
+        'image' => 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV8kcrVncaxHx20xNFFDSmGt69cpmNiam6_-bFr1CDMXDVx6nN2Zc3aEYNwIyPAzX_t0W-N0PAN7QBrcmo_8MbLw',
         'description' => 'Glossy, thick leaves that add sophistication to any space. Easy to care for and fast-growing.',
         'price' => 39.99
     ],

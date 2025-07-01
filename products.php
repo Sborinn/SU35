@@ -28,14 +28,14 @@ $products = [
     [
         'id' => 'peace-lily',
         'name' => 'Peace Lily',
-        'image' => 'https://images.pexels.com/photos/4425875/pexels-photo-4425875.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=2',
+        'image' => 'https://images.pexels.com/photos/10903294/pexels-photo-10903294.jpeg',
         'description' => 'Elegant white flowers and dark green foliage. Excellent air purifier for indoor spaces.',
         'price' => 34.99
     ],
     [
         'id' => 'rubber-plant',
         'name' => 'Rubber Plant',
-        'image' => 'https://images.pexels.com/photos/7728020/pexels-photo-7728020.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=2',
+        'image' => 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV8kcrVncaxHx20xNFFDSmGt69cpmNiam6_-bFr1CDMXDVx6nN2Zc3aEYNwIyPAzX_t0W-N0PAN7QBrcmo_8MbLw',
         'description' => 'Glossy, thick leaves that add sophistication to any space. Easy to care for and fast-growing.',
         'price' => 39.99
     ],
@@ -49,21 +49,21 @@ $products = [
     [
         'id' => 'boston-fern',
         'name' => 'Boston Fern',
-        'image' => 'https://images.pexels.com/photos/4425869/pexels-photo-4425869.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=2',
+        'image' => 'https://images.esellerpro.com/3048/I/619/66/Nephrolepis%20boston%20fern-10.jpg',
         'description' => 'Lush, feathery fronds that create a soft, natural atmosphere. Great for hanging baskets.',
         'price' => 24.99
     ],
     [
         'id' => 'aloe-vera',
         'name' => 'Aloe Vera',
-        'image' => 'https://images.pexels.com/photos/6208067/pexels-photo-6208067.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=2',
+        'image' => 'https://media.gettyimages.com/id/89179864/photo/close-up-of-barbados-aloe-plant-growing-in-a-pot.jpg?b=1&s=594x594&w=0&k=20&c=soBUoivtRO5mpvjHydsO4obzsC18LXN5gyax_pp_EGk=',
         'description' => 'Succulent with healing properties. Low maintenance and perfect for sunny windowsills.',
         'price' => 19.99
     ],
     [
         'id' => 'spider-plant',
         'name' => 'Spider Plant',
-        'image' => 'https://images.pexels.com/photos/7728093/pexels-photo-7728093.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=2',
+        'image' => 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQst_HGF1VulUVdBe6312mPhmW-B5dOEZ0h1QvrZkqUYtrYexfYLpaxo5PvAwI2FnTfk7DsGoIpd2205ob9doGtw',
         'description' => 'Easy-to-grow plant with arching leaves and baby plantlets. Great for beginners.',
         'price' => 18.99
     ]

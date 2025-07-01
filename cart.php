@@ -1,7 +1,7 @@
-<?php 
+<?php
 $page_title = "Shopping Cart";
 include 'includes/header.php';
-include 'includes/cart_functions.php';
+include_once 'includes/cart_functions.php';
 
 // Handle cart actions
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {

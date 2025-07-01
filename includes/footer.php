@@ -16,9 +16,10 @@
                 </div>
                 <div class="footer-section">
                     <h4>Contact Info</h4>
-                    <p>📧 info@plantlovershop.com</p>
-                    <p>📞 (555) 123-4567</p>
-                    <p>📍 123 Garden Street, Green City</p>
+                    <p>📧 SU35@gmail.com</p>
+                    <p>📞 (855) 123-4567</p>
+                    <p>📍No. 86A, Street 110, Russian Federation Boulevard,
+Sangkat Teuk Laak I, Khan Toul Kork, Phnom Penh, Cambodia</p>
                 </div>
             </div>
             <div class="footer-bottom">
