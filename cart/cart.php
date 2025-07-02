@@ -91,11 +91,14 @@ $cartCount = getCartItemCount();
                         </div>
                         
                         <div class="cart-actions">
-                            <button class="btn btn-primary">Proceed to Checkout</button>
+                            <form action="checkout.php" method="GET" style="margin-bottom: 1rem;">
+    <button type="submit" class="btn btn-primary">Proceed to Checkout</button>
+</form>
                             <a href="products.php" class="btn btn-secondary">Continue Shopping</a>
                             <form method="POST" style="margin-top: 1rem;">
+                                
                                 <input type="hidden" name="action" value="clear">
-                                <button type="submit" class="btn-clear" onclick="return confirm('Are you sure you want to clear your cart?')">Clear Cart</button>
+                                <button type="submit" class="btn-clear" onclick="return confirm('Are you sure you want to clear your cart?')">Clear</button>
                             </form>
                         </div>
                     </div>

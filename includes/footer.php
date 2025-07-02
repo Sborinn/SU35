@@ -12,6 +12,7 @@
                         <li><a href="products.php">Products</a></li>
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="contact.php">Contact</a></li>
+                        <li><a href="account.php" class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'account.php' ? 'active' : ''; ?>">Account</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
